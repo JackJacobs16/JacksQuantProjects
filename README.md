@@ -13,5 +13,5 @@ The reader should note that none of the trading strategies I have used in this p
 purpose of this project was not to come up with a good trading strategy, but rather to provide the tools one can use to implement a trading strategy in the future. There are many things that I would like to improve about the code I have provided, and 
 the parameters I have set. This will all be done at a later date. 
 
-In the file `Introduction to Algorithmic Trading and Backtesting.html`, I provide a more in-depth explanation to my work, and the references used to research and write this project. 
+In the pdf file `Introduction to Algorithmic Trading and Backtesting`, I provide a more in-depth explanation to my work, and the references used to research and write this project. 
 
